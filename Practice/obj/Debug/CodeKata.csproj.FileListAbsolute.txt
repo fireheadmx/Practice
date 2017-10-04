@@ -1,0 +1,7 @@
+c:\users\ramiro.banuellos\documents\visual studio 2013\Projects\CodeKata\CodeKata\bin\Debug\CodeKata.exe.config
+c:\users\ramiro.banuellos\documents\visual studio 2013\Projects\CodeKata\CodeKata\obj\Debug\CodeKata.csprojResolveAssemblyReference.cache
+c:\users\ramiro.banuellos\documents\visual studio 2013\Projects\CodeKata\CodeKata\bin\Debug\CodeKata.exe
+c:\users\ramiro.banuellos\documents\visual studio 2013\Projects\CodeKata\CodeKata\bin\Debug\CodeKata.pdb
+c:\users\ramiro.banuellos\documents\visual studio 2013\Projects\CodeKata\CodeKata\obj\Debug\CodeKata.exe
+c:\users\ramiro.banuellos\documents\visual studio 2013\Projects\CodeKata\CodeKata\obj\Debug\CodeKata.pdb
+C:\Users\ramiro.banuellos\Documents\Visual Studio 2013\Projects\CodeKata\CodeKata\bin\Debug\Practice.exe.config

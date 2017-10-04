@@ -1,0 +1,9 @@
+C:\Users\ramiro.banuellos\Documents\Visual Studio 2013\Projects\CodeKata\CodeKata\bin\Debug\Practice.exe.config
+C:\Users\ramiro.banuellos\Documents\Visual Studio 2013\Projects\CodeKata\CodeKata\bin\Debug\Practice.exe
+C:\Users\ramiro.banuellos\Documents\Visual Studio 2013\Projects\CodeKata\CodeKata\bin\Debug\Practice.pdb
+C:\Users\ramiro.banuellos\Documents\Visual Studio 2013\Projects\CodeKata\CodeKata\obj\Debug\Practice.csprojResolveAssemblyReference.cache
+C:\Users\ramiro.banuellos\Documents\Visual Studio 2013\Projects\CodeKata\CodeKata\obj\Debug\Practice.exe
+C:\Users\ramiro.banuellos\Documents\Visual Studio 2013\Projects\CodeKata\CodeKata\obj\Debug\Practice.pdb
+C:\Users\ramiro.banuellos\Documents\Visual Studio 2013\Projects\CodeKata\Practice\bin\Debug\Practice.exe.config
+C:\Users\ramiro.banuellos\Documents\Visual Studio 2013\Projects\CodeKata\Practice\obj\Debug\Practice.exe
+C:\Users\ramiro.banuellos\Documents\Visual Studio 2013\Projects\CodeKata\Practice\obj\Debug\Practice.pdb
